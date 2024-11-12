@@ -3,6 +3,6 @@ module com.example.ejerciciop {
     requires javafx.fxml;
 
 
-    opens com.example.ejerciciop to javafx.fxml;
-    exports com.example.ejerciciop;
+    opens es.joel.ejerciciop to javafx.fxml;
+    exports es.joel.ejerciciop;
 }
